@@ -1,0 +1,1 @@
+module.exports={testDir:'./tests',testMatch:'*.spec.cjs',workers:1,use:{baseURL:'http://127.0.0.1:4173',viewport:{width:390,height:844},launchOptions:{executablePath:'/usr/bin/chromium',args:['--no-sandbox']},screenshot:'only-on-failure'},webServer:{command:'node tests/serve.cjs',url:'http://127.0.0.1:4173',reuseExistingServer:true}};
