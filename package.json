@@ -1,6 +1,6 @@
 {
   "name": "lime-fit-web-recovery",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Reproducible browser recovery and split-program update; not the original Expo source project",
   "main": "index.js",
   "directories": {
